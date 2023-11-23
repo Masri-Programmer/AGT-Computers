@@ -4602,7 +4602,7 @@ input:checked+.toggle-bg {
     font-family: samsung;
     font-style: normal;
     font-weight: 500;
-    src: url(/https://masri-programmer.github.io/AGT-Computers/assets/samsungsharpsans-BkDg3_8K.otf) format("opentype");
+    src: url(/assets/samsungsharpsans-BkDg3_8K.otf) format("opentype");
     font-display: swap,
 }
 
@@ -4611,14 +4611,14 @@ input:checked+.toggle-bg {
     font-style: normal;
     font-weight: 900 !important;
     font-display: swap;
-    src: url(/https://masri-programmer.github.io/AGT-Computers/assets/samsungsharpsans-bold-ulH8MZzJ.otf) format("opentype"),
+    src: url(/assets/samsungsharpsans-bold-ulH8MZzJ.otf) format("opentype"),
 }
 
 @font-face {
     font-family: samsungMeduim;
     font-display: swap;
     font-style: normal;
-    src: url(/https://masri-programmer.github.io/AGT-Computers/assets/samsungsharpsans-medium-9L1-Ra-V.otf) format("opentype"),
+    src: url(/assets/samsungsharpsans-medium-9L1-Ra-V.otf) format("opentype"),
 }
 
 :root {
